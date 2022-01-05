@@ -28,7 +28,7 @@ let questions = [
     answer: "CS-405",
     options: [
       "CS-409",
-      "402",
+      "CS-402",
       "CS-407",
       "CS-405"
     ]
